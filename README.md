@@ -15,16 +15,11 @@ Clone the repository or download the script file.
 
 Open a terminal and navigate to the directory containing the script.
 
+## Usage
 Execute the script by running:
 ```bash
 node main.js
 ```
-## Configuration
-
-- Replace YOUR_TOKEN_HERE with your actual Discord bot token or user token.
-- Replace the URL in const url with the URL of the message you want to react to.
-- You can modify the reactions array to include the Unicode codes of the reactions you want to use.
-## Usage
 
 ## Constants
 auth: Your Discord bot token or user token.
